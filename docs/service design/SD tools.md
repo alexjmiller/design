@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Service Design Toolkit"
-permalink: /service-design-toolkit/
+#permalink: /service-design-toolkit/
 parent: service design
 ---
 
