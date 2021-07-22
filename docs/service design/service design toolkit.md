@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Service Design Toolkit"
-permalink: /service-design-toolkit/
-parent: service design
+permalink: /service-design/toolkit/
+parent: service-design
 nav_order: 2
 ---
 
