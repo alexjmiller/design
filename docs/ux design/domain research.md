@@ -1,16 +1,17 @@
 ---
 layout: page
-title: "Research"
-parent: ux-design
-permalink: /ux-design/research/
+title: "Domain Research"
+parent: UX Design
+permalink: /ux-design/domain-research/
 nav_order: 2
 ---
 
-# Research
+# Domain Research
 
 just enough research
 
-Research stages
+##Research stages
+
 1. Inital Research
     - Competitive Analysis
     - Somehthing else

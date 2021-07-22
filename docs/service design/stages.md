@@ -1,9 +1,30 @@
 ---
 layout: page
-title: "Service Design stages"
+title: "Service Design Stages"
 permalink: /service-design/stages/
-parent: service-design
+parent: Service Design
 nav_order: 3
 ---
 
-this is about stages
+# Service Design Stages
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+## Alignment Phase
+
+## Discovery Phase
+
+## Opportunity Phase
+
+## Prototype Phase
+
+## Roadmap Phase
+
+## Implement Phase
