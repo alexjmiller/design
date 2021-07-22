@@ -1,8 +1,9 @@
 ---
 layout: page
 title: "Research"
-#nav_order: 1
 parent: ux design
+permalink: /ux-research/
+nav_order: 2
 ---
 
 # Research

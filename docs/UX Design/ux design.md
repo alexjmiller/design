@@ -15,5 +15,4 @@ To make it as easy as possible to write documentation in plain Markdown, most UI
 
 #UX Design 
 
-Link	[Research](/research)Research
-Synthais
+Link	[Research](ux-design/research)
