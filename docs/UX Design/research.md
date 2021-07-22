@@ -2,7 +2,8 @@
 layout: page
 title: "Research"
 permalink: /ux-research/
-nav_order: 2
+nav_order: 1
+parent: ux design
 ---
 
 # Research
