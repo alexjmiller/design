@@ -23,4 +23,5 @@ just enough research
 
 [When to Use Which User-Experience Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/)
 
-[User Research Basics | Usability.gov](http://www.usability.gov/what-and-why/user-research.html)
+[User Research Basics - Usability.gov](http://www.usability.gov/what-and-why/user-research.html)
+
