@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "GDS Service Standards"
-permalink: /service-design/
+permalink: /gds-service-standards/
 nav_order: 3
 has_children: true
 
