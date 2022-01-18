@@ -1,4 +1,11 @@
 # design
-design docs for ux and service design
+design guides for ux and service design
 
-this is now working with just the docs
+Covering UX design principals
+Design thinking
+Tools
+Service Design
+GDS Service Standards
+GDS frontend kits
+Prototyping Tools
+
