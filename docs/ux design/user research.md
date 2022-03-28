@@ -3,7 +3,7 @@ layout: page
 title: "User Research"
 parent: UX Design
 permalink: /ux-design/research/
-nav_order: 3
+nav_order: 1
 ---
 
 # User Research

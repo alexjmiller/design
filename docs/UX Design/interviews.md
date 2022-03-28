@@ -1,3 +1,13 @@
+---
+layout: page
+title: "User Research"
+parent: UX Design
+permalink: /ux-design/interviews/
+nav_order: 3
+---
+
+# User Research
+
 # Interviews
 
 
