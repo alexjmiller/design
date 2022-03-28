@@ -4,10 +4,10 @@ title: "Design Heuristics"
 permalink: /service-design/heuristics/
 parent: Service Design
 nav_order: 4
-
 ---
 
 # 10 Usability Heuristics for User Interface Design
+{: .no_toc }
 
 **Summary:** Jakob Nielsen's 10 general principles for interaction design. They are called "heuristics" because they are broad rules of thumb and not specific usability guidelines.
 
@@ -201,3 +201,4 @@ Help and documentation content should be easy to search and focused on the user'
 
 ![img](https://media.nngroup.com/media/editor/2020/11/06/heuristic-example-73-82.png)***Example of Usability Heuristic #10:\*** 
 *Information kiosks at airports are easily recognizable and solve customers’ problems in context and immediately.* 
+------
