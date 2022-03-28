@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Service Design Toolkit"
+title: "Toolkit"
 permalink: /service-design/toolkit/
 parent: Service Design
 nav_order: 2
