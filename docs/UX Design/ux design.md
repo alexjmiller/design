@@ -16,3 +16,4 @@ To make it as easy as possible to write documentation in plain Markdown, most UI
 #UX Design 
 
 Link	[Research](/ux-design/research)
+Link	[Heuristics](/service-design/heuristics)
