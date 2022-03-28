@@ -14,9 +14,9 @@ nav_order: 2
 
 ## 1. Service Design Canvas
 
-- [x] cheese
-- [ ] chicken 
-- [ ] Soup
+- [ ] Tasks
+- [ ] To Be 
+- [x] Done
 
 ------
 
